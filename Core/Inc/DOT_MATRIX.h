@@ -20,7 +20,7 @@
 // The Number OF Separate DOT MATRIX Units (Whether Single or Cascaded) To Be Used In The Project
 #define DOT_MATRIX_UNITS  4
 // The Matrix Units Count Of The Longest Cascaded String In The System
-#define MAX_CASCADED_NUM  2
+#define MAX_CASCADED_NUM  4
 
 // DOT Matrix SPI Options
 #define DOT_MATRIX_SPI    SPI1

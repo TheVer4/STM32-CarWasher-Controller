@@ -20,7 +20,7 @@ const DOT_MATRIX_CfgType DOT_MATRIX_CfgParam[DOT_MATRIX_UNITS] =
 		GPIO_PIN_4,
 		75,   /* Scroll Speed*/
 		4,    /* Number Of Cascaded Devices*/
-		8,    /* Brightness Level */
+		1,    /* Brightness Level */
 		SCROLL_MODE
 	}
 };
